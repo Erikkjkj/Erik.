@@ -1,0 +1,113 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.cabeçalho {
+    background-color: #191970;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+}
+
+.cabeçalho-imagem{
+    width: 6%;
+}
+
+.cabeçalho-lista-item{
+display: inline-block;
+margin: 0 16px;
+font-size: 64px;
+}
+
+.james-webb-imagem{
+    width: 20%;
+    justify-content: end;
+}
+
+.james-webb{
+    background-image: linear-gradient(#191970,#3030D6);
+    color: white;
+   display: flex;
+   justify-content: center;
+   padding: 24px;
+}
+
+.james-webb-div{
+    width: 40%;
+}
+
+.nebulosas-titulo{
+    color: #8485db;
+    text-align: center;
+    padding: 20px 0;
+    font-size: 45px;
+}
+
+.eta-carinae{
+    color: #8485db;
+}
+
+.nebulosa1{
+    width: 120px;
+}
+
+.wiki-etacarinae{
+    width: 20px;
+}
+
+.div-nebulosa2{
+    text-align: center;
+}
+
+.pilares-da-criação{
+    color: #8485db;
+}
+
+.nebulosa2{
+    width: 120px;
+}
+
+.wiki-pilares{
+    width: 20px;
+}
+
+.div-nebulosa3{
+    text-align: center;
+}
+
+.nebulosa3{
+    width: 120px;
+}
+
+.aglommerado-galaxias{
+    color: #8485db;
+}
+
+.wiki-aglomerado{
+    width: 20px;
+}
+
+.nebulosas-div{
+    text-align: center;
+}
+.todas-nebulosas{
+    display: grid;
+    grid-template-columns: 5% 30% 30% 30%;
+}
+
+.rodapé-imagem{
+    width: 10%;
+    padding: 12px 0;
+}
+
+.footer{
+    background-color: #3030D6;
+    text-align: end;
+}
+
+
+
+.nebulosas4{
+    width: 120px;
+}
